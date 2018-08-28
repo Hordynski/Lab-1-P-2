@@ -1,0 +1,7 @@
+C:\Users\Zack\Desktop\visual_c_projects\Lab1P2\Lab1P2\bin\Debug\Lab1P2.exe.config
+C:\Users\Zack\Desktop\visual_c_projects\Lab1P2\Lab1P2\bin\Debug\Lab1P2.exe
+C:\Users\Zack\Desktop\visual_c_projects\Lab1P2\Lab1P2\bin\Debug\Lab1P2.pdb
+C:\Users\Zack\Desktop\visual_c_projects\Lab1P2\Lab1P2\obj\Debug\Lab1P2.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\visual_c_projects\Lab1P2\Lab1P2\obj\Debug\Lab1P2.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\visual_c_projects\Lab1P2\Lab1P2\obj\Debug\Lab1P2.exe
+C:\Users\Zack\Desktop\visual_c_projects\Lab1P2\Lab1P2\obj\Debug\Lab1P2.pdb
